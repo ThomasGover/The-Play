@@ -1,4 +1,7 @@
 # The-Play
+# Act I
+## Scene i
+
 
 We open on a bright spring morning at West Point. The sun shines on the cadets below:
 
@@ -42,6 +45,7 @@ COL Theprof looks confused.
 
 Exit **COL Theprof**
 
+# Act II
 
 ## Scene ii:
 
