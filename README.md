@@ -49,7 +49,7 @@ Exit **COL Theprof**
 
 ## Scene ii:
 
-We open with Cadet X and Cadet Y hanging over a vat of Acid somewhere in Thayer Hall. Acid proof sharks swim beneath them
+We open with Cadet X and Cadet Y hanging over a vat of Acid somewhere in Thayer Hall. Acid proof sharks swim beneath them. It's a real question how they got here.
 
 **Cadet X:** What, you expect us to talk?
 
