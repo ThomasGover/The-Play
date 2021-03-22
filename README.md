@@ -17,3 +17,11 @@ The cadets keep walking under the sun. Cadet X trying his best to hide the illic
 **COL Theprof:** Oh, sorry, got carried away. Good morning, Cadet X!
 
 They salute
+
+**Cadet X:** Did you hear that, Cadet Y? COL Theprof says I am a wizard!
+
+**Cadet Y:** Frankly my dear, I don't give a damn.
+
+**Cadet X:** :(
+
+**Sun:** Real clever, Cadet Y! You'll be gone with wind after I'm done shining on you! I'm shining here!
