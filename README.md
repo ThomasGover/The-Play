@@ -54,3 +54,11 @@ We open with Cadet X and Cadet Y hanging over a vat of Acid somewhere in Thayer 
 **Cadet X:** What, you expect us to talk?
 
 **MAJ Badguy:** No! I expect you to die!
+
+**Cadet Y:** What do you want from us?!
+
+**MAJ Badguy:** I'll never tell!
+
+MAJ Badguy laughs maniacally.
+
+**Cadet X: (shouting)** All right then keep your secrets!
