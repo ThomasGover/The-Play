@@ -31,3 +31,13 @@ They salute
 **COL:** What do you have there, Cadet X? It looks like a WPR.
 
 **Cadet X:** I was just studying sir. I have a big test coming up.
+
+**COL:** Oh wonderful! I do love me a good test! May I see your study materials?
+
+**Cadet X:** Uhh.... Umm... You see.. well.... These are not the droids you're looking for.
+
+COL Theprof looks confused.
+
+**COL Theprof:** Fair enough.
+
+Exit **COL Theprof**
