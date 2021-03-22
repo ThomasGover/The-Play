@@ -43,7 +43,7 @@ COL Theprof looks confused.
 Exit **COL Theprof**
 
 
-Scene ii:
+##Scene ii:
 
 We open with Cadet X and Cadet Y hanging over a vat of Acid somewhere in Thayer Hall. Acid proof sharks swim beneath them
 
