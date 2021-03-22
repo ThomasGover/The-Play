@@ -25,3 +25,9 @@ They salute
 **Cadet X:** :(
 
 **Sun:** Real clever, Cadet Y! You'll be gone with wind after I'm done shining on you! I'm shining here!
+
+**Cadet Y:** Wow! The sun is bright!
+
+**COL:** What do you have there, Cadet X? It looks like a WPR.
+
+**Cadet X:** I was just studying sir. I have a big test coming up.
