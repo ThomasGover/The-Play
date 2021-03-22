@@ -41,3 +41,12 @@ COL Theprof looks confused.
 **COL Theprof:** Fair enough.
 
 Exit **COL Theprof**
+
+
+Scene ii:
+
+We open with Cadet X and Cadet Y hanging over a vat of Acid somewhere in Thayer Hall. Acid proof sharks swim beneath them
+
+**Cadet X:** What, you expect us to talk?
+
+**MAJ Badguy:** No! I expect you to die!
